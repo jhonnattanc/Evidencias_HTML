@@ -1,0 +1,17 @@
+h1{
+	color: dark-gray;
+}
+
+body {
+	font-family: 'Goldman', cursive;
+}
+
+.btn-mi-color {
+	background-color: green;
+	border-color: green;
+
+}
+
+.btn-mi-color:hover {
+	background-color: #77DD77
+}
